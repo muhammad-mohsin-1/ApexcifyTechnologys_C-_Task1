@@ -1,6 +1,5 @@
-================================================================================
-                  ACADEMIC MANAGEMENT SYSTEM (CGPA CALCULATOR)
-================================================================================
+
+                ACADEMIC MANAGEMENT SYSTEM (CGPA CALCULATOR)
 
 Version:   5.0 (Professional Edition)
 Language:  C++
@@ -85,6 +84,5 @@ and a professional dashboard interface.
 * Dev-C++ or TDM-GCC Compiler recommended.
 
 
-================================================================================
 Developed by [Muhammad Mohsin / Apexify Technologies]
-================================================================================
+
